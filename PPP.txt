@@ -1,0 +1,23 @@
+CTEM & Vulnerability Management - 
+
+1. End to end management of CTEM (ASM, CART, BAS)
+2. End to end management of VAPT and CTEM related activities ie planning, data gathering, scanning, reporting, tracking and closure of vulnerabilites as per IS policy and regualtory guidelines 
+3. Coordinate and condcut reviews with stakeholders and ensure timely closure and reproting of VAPT status to managment and regulators
+4. Maintanance and management of Vulnerability management tool and reports
+5. Maintanance and management of Appsec tool (Burpsuite) and condcut app testing as per IS policy requirement.
+
+
+Risk Assessment- 
+
+1. Timely perform technical Risk assessments for new applications, IT systems through on deamnd VA scans and risk assessment and provide security findings and recommendations
+
+2. Maintain required documentation of security assessment/ testing as per regulatory requirements.
+
+
+VTR Assessment:
+
+1. Drive VTR project related activities (Threat assessment, Hardening guidelines) and track findings/ obserrvations  for closure.
+
+2. Lead the SNA, Tools and SOC review projects along with Manger
+
+3. Assist in other VTR assessment activites (CVTR, DevSecOps, maturity rating etc), Contribute in IS awareness program
